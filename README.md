@@ -31,3 +31,7 @@ Add a Task: The user types a task in the input field and clicks the "Add" button
 Display the Task: The task is added to the list below the input field.
 Mark as Completed: The user clicks on a task to mark it as completed. The task will be visually distinct (e.g., struck through or highlighted).
 Delete a Task: The user can delete a task by clicking a delete button next to it.
+
+
+![image](https://github.com/user-attachments/assets/119e6f27-4fc7-4390-b108-9c481e67749e)
+
