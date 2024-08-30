@@ -1,10 +1,10 @@
 # CODTECHT-TASK-SKH-1
-Name : SHAIK HARUN 
-Company : CODETECH IT SOLUTIONS
-ID : CT6WDS1751
-Domain : WEB DEVELOPMENT
-Duration : AUGUST to OCTOBER 2024
-Mentor : Neela Santhosh Kumar
+**Name : SHAIK HARUN 
+**Company : CODETECH IT SOLUTIONS
+**ID : CT6WDS1751
+**Domain : WEB DEVELOPMENT
+**Duration : AUGUST to OCTOBER 2024
+**Mentor : Neela Santhosh Kumar
 
 ## Overview of the Project
 
